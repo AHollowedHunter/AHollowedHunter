@@ -1,4 +1,4 @@
-To qoute a famous general:
+To quote a famous general:
 > Hello there
 
 For my website click [here!](https://ashleycave.com)
