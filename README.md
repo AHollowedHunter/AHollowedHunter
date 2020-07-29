@@ -7,4 +7,4 @@ To qoute a famous general:
 
 ## For a cat pic, look down!
 
-[Picture of a cat, sat on a table. (c) Ashley Cave](Cat.jpg)
+[Picture of a cat, sat on a table. (c) Ashley Cave](/Cat.jpg)
