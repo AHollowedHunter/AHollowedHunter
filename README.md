@@ -1,10 +1,6 @@
-To quote a famous general:
-> Hello there
 
-For my website click [here!](https://ashleycave.com)
+Website [ashleycave.com](https://ashleycave.com)
 
-For my respositories, click above :point_up:
+Linkedin [ashcave](https://www.linkedin.com/in/ashcave/)
 
-For a cat pic, look down!
-
-![Picture of a cat, sat on a table. (c) Ashley Cave](https://github.com/AHollowedHunter/AHollowedHunter/blob/master/Cat.jpg)
+Instagram (Photography) [acave.photos](https://www.instagram.com/acave.photos/)
