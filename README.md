@@ -7,4 +7,4 @@
 🐘 Mastodon <a rel="me" target="_mastodon" href="https://universeodon.com/@AHollowedHunter">AHollowedHunter</a>
 
 
-*Why AHollowedHunter?* - Well because at the time I played a lot of Bloodborne and Dark Souls, it's unique, ...and short usernames can be hard to get.
+*Why AHollowedHunter?* - It's unique, and because at the time I played a lot of Bloodborne and Dark Souls ...And short usernames can be hard to get.
