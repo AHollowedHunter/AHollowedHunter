@@ -1,6 +1,6 @@
 🌐 Website [acave.dev](https://acave.dev)
 
-💼 Linkedin [ashcave](https://www.linkedin.com/in/ashcave/)
+💼 Linkedin [acave-dev](https://www.linkedin.com/in/acave-dev/)
 
 📷 Instagram (Photography) [acave.photos](https://www.instagram.com/acave.photos/)
 
